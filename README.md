@@ -4,7 +4,7 @@ __Problem Statement:__<br>
 Based on an existing image database of vehicles and non-vehicles, detect whether an image contains a vehicle.
 
 __Input:__<br>
-non-vehicles: Images containing vehicles.
+non-vehicles: Images containing vehicles.<br>
 vehicles: Images not containing vehicles.
 
 __Output:__<br>
